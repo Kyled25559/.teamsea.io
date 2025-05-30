@@ -11,4 +11,4 @@ Versions 5.0.x and < 4.0 are not.
 
 ## Reporting a Vulnerability
 
-If you have any concerns send an email to my team in oder to improve our website, and if you enjoy it, please dont forget to share it to your friends or familly.
+If you have any concerns send an email to my team, kyrojack51@gmail.com, in oder to improve our website, and if you enjoy it, please dont forget to share it to your friends or familly.
